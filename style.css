@@ -1,0 +1,61 @@
+/* POUR BOUTON DOWNLOAD */
+.jumbotron {
+    margin-top: 27px;
+}
+body {
+    color: #333;
+    font-family: "Lato";
+}
+.jumbotron {
+    padding: 2rem 2rem !important;
+}
+.fa-ul {
+    display: inline-block !important;
+}
+.comp {
+line-height: 30px;
+    margin-bottom: 5px;
+}
+.comp i {
+    font-size: 30px;
+    position: absolute;
+    left: -2.14285714em;
+    width: 2.14285714em;
+    top: .14285714em;
+    text-align: center;
+}
+.fa-li.fa-lg {
+        left: -1.7em;
+}
+.comp-div {
+        display:inline-block;
+        padding-left: 0;
+        padding-right: 0;
+}
+.fa-ul h3 {
+    margin-left: -1.143em;
+}
+a {
+    text-decoration: none;
+    color: #333;
+}
+a:hover {
+    text-decoration: none;
+}
+h2 {
+    margin-top: 1rem;
+}
+.jumbotron {
+    background-color: #4FC3F7;
+    color: #fff;
+}
+.jumbocol {
+    display: inline-block;
+}
+.jumbologo {
+    font-size: 8em;
+}
+.blue {
+    color: #0288D1;
+    font-weight: bold;
+}
